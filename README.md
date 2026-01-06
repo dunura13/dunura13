@@ -29,6 +29,7 @@ A neural network simulation implemented entirely from scratch without external l
 * Built a feedforward neural network to autonomously drive a car through a course, visualizing the network's decision-making in real-time.
 
 **Internify** | React, Supabase, Lovable, Gemini API
+
 A Gemini wrapper application built to optimize and streamline the internship search process.
 
 ### 💼 Experience
