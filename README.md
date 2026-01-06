@@ -18,9 +18,9 @@ i’m also a software developer at **utesca**, building crowd simulation archite
 A multi-modal search interface enabling real-time product discovery via text and image.
 * Containerized Docker backend and an ETL pipeline that improved search relevance by 35%.
 
-**Threadlock** | Next.js, FastAPI, Gemini API, PostgreSQL, GCP
+**Threadlock** | Next.js, FastAPI, Gemini API, PostgreSQL, GCP, Jira, Slack API
 
-A GenAI dashboard that visualizes agent activity and automates ticket creation from chats.
+A GenAI dashboard that visualizes agent activity and automates Jira ticket creation from Slack chats.
 * Implemented RAG workflows to transform unstructured data into structured audit logs.
 
 **Self Driving Car** | JavaScript, HTML, CSS
