@@ -1,25 +1,25 @@
-# Hi, i'm dunura
+# Hi, i'm Dunura
 
-[cite_start]i'm a 2nd year computer engineering student at the University of Toronto [cite: 4, 5, 7][cite_start], currently working as a Machine Learning Software Engineer at **UTMIST**, where i engineer automated pipelines and fine-tune transformer models[cite: 15, 16, 19, 21]
+i'm a 2nd year computer engineering student at the University of Toronto, currently working as a Machine Learning Software Engineer at **UTMIST**, where i engineer automated pipelines and fine-tune transformer models
 
-[cite_start]i’m also an ml software engineer at **utmist**, engineering automated data pipelines and fine-tuning transformer models [cite: 15, 16, 19, 21][cite_start], and a firmware developer at **neurotechuoft**, working on data collection for bci interactions[cite: 24, 25, 28]. i love building systems that bridge the gap between hardware, ai, and full-stack web apps.
+i’m also a software developer at **utesca**, building crowd simulation architectures in c# and unity, and a firmware developer at **NeurotechUofT**, working on data collection for bci interactions. i love building systems that bridge the gap between hardware, ai, and full-stack web apps.
 
 ### 🛠️ Technical Skills
 
-* [cite_start]**Languages:** Python, Java, C, C++, C#, JavaScript, TypeScript, SQL, HTML/CSS [cite: 43]
-* [cite_start]**Frameworks:** React, Next.js, FastAPI, Flask, PyTorch, YOLOv8, TailwindCSS [cite: 44]
-* [cite_start]**Developer Tools:** Docker, Git, Linux, Azure, Google Cloud Platform (GCP), Unity, Raspberry Pi [cite: 44]
-* [cite_start]**AI/ML:** LLMs, RAG, Prompt Engineering, Pinecone, OpenCV, LoRA Adapters [cite: 44]
+**Languages:** Python, Java, C, C++, C#, JavaScript, TypeScript, SQL, HTML/CSS
+**Frameworks:** React, Next.js, FastAPI, Flask, PyTorch, YOLOv8, TailwindCSS 
+**Developer Tools:** Docker, Git, Linux, Azure, Google Cloud Platform (GCP), Unity, 
+**AI/ML:** LLMs, RAG, Prompt Engineering, Pinecone, OpenCV, LoRA Adapters
 
 ### 🚀 Projects
 
-**Vibe-Shop** | [cite_start]React, OpenAI CLIP, YOLOv8, FastAPI, Pinecone [cite: 32]
-[cite_start]A multi-modal search interface enabling real-time product discovery via text and image[cite: 34].
-* [cite_start]Containerized Docker backend and an ETL pipeline that improved search relevance by 35%[cite: 35, 36].
+**Vibe-Shop** | React, OpenAI CLIP, YOLOv8, FastAPI, Pinecone
+A multi-modal search interface enabling real-time product discovery via text and image.
+* Containerized Docker backend and an ETL pipeline that improved search relevance by 35%.
 
-**Threadlock** | [cite_start]Next.js, FastAPI, Gemini API, PostgreSQL, GCP [cite: 37]
-[cite_start]A GenAI dashboard that visualizes agent activity and automates ticket creation from chats[cite: 39, 40].
-* [cite_start]Implemented RAG workflows to transform unstructured data into structured audit logs[cite: 40].
+**Threadlock** | Next.js, FastAPI, Gemini API, PostgreSQL, GCP
+A GenAI dashboard that visualizes agent activity and automates ticket creation from chats.
+* Implemented RAG workflows to transform unstructured data into structured audit logs.
 
 **Running to Employment** | Verilog, FPGA
 A side-scrolling runner game running on a DE1-SoC FPGA board, utilizing custom computer vision controls.
