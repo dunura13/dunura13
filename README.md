@@ -27,26 +27,26 @@ A side-scrolling runner game running on a DE1-SoC FPGA board, utilizing custom c
 ### 💼 Experience
 
 **Software Developer**
-**UTESCA** | Toronto, ON | [cite_start]Nov 2025 – Present [cite: 10, 11, 12]
-* [cite_start]Leading the SDLC for a crowd simulation module, translating requirements into scalable C# architecture in Unity[cite: 13].
-* [cite_start]Visualizing simulation outputs in Power BI to provide actionable capacity metrics[cite: 14].
+**UTESCA** | Toronto, ON | Nov 2025 – Present
+* Leading the SDLC for a crowd simulation module, translating requirements into scalable C# architecture in Unity[cite: 13].
+* Visualizing simulation outputs in Power BI to provide actionable capacity metrics[cite: 14].
 
 **Machine Learning Software Engineer**
-**UTMIST** | Toronto, ON | [cite_start]Sept 2025 – Present [cite: 15, 16, 17]
-* [cite_start]Fine-tuning PyTorch transformer models using LoRA adapters, boosting F1-scores by 15%[cite: 21].
-* [cite_start]Containerizing Flask/Gradio interfaces with Docker to eliminate environment compatibility issues[cite: 22].
+**UTMIST** | Toronto, ON | Sept 2025 – Present 
+* Fine-tuning PyTorch transformer models using LoRA adapters, boosting F1-scores by 15%.
+* Containerizing Flask/Gradio interfaces with Docker to eliminate environment compatibility issues.
 
 **Firmware Developer**
-**NeurotechUofT** | Toronto, ON | [cite_start]Sept 2025 – Present [cite: 24, 25, 26]
-* [cite_start]Developing Python code to collect and clean IMU/flex sensor data at 200 Hz on Raspberry Pi[cite: 28].
-* [cite_start]Deployed an intent classification model achieving 90% accuracy on raw sensor data[cite: 30].
+**NeurotechUofT** | Toronto, ON | Sept 2025 – Present 
+* Developing Python code to collect and clean IMU/flex sensor data at 200 Hz on Raspberry Pi.
+* Deployed an intent classification model achieving 90% accuracy on raw sensor data.
 
 ### 📚 Education
 
-[cite_start]**University of Toronto** [cite: 4]
-* [cite_start]Bachelor of Applied Science in Computer Engineering, Minor in AI Engineering [cite: 5, 6]
-* Sept 2024 – Apr 2028 | [cite_start]Toronto, ON [cite: 7]
+**University of Toronto** 
+* Bachelor of Applied Science in Computer Engineering, Minor in AI Engineering 
+* Sept 2024 – Apr 2028 | Toronto, ON 
 
-### 🎾 Outside of Code
+### 🏋 Outside of Code
 
-i am a 2024 bmo200 william a. downe scholar and i'm currently training to achieve a specific physique goal by summer 2026.
+I lift heavy weights
