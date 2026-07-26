@@ -9,6 +9,7 @@ i’m also an AI Research Assistant at **UofT**, working with Professor Minghan 
 **Languages:** Python, C, C++, JavaScript, TypeScript, SQL, HTML/CSS, Java
 
 **Frameworks:** React, Next.js, Express.js, FastAPI, Springboot
+
 **Developer Tools:** AWS, Docker, Kubernetes, Git, Linux, VS Code
 
 **AI/ML:** LLMs, RAG, OpenCV, PyTorch, Scikit-learn, Numpy, Pandas, Matplotlib
