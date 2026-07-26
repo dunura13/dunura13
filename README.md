@@ -3,6 +3,7 @@
 i'm a 3rd year Computer Engineering student at the University of Toronto, currently working as a Software Developer at **BMO**, where I'm engineering cloud services using AWS and Typescript for both customer-facing and internal applications.
 
 i’m also an AI Research Assistant at **UofT**, working with Professor Minghan Xu on applied AI-based optimizations for building sustainable renewewable energy systems using multi-objective evolutionary algorithms.
+
 ### 🛠️ Technical Skills
 
 **Languages:** Python, C, C++, JavaScript, TypeScript, SQL, HTML/CSS, Java
